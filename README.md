@@ -1,5 +1,6 @@
 # Basics og Graph Theory & respective tools
 
+Personal Objective: https://mail.google.com/mail/u/0/#inbox/FMfcgxwChJjqWQrnQhrprspQRXMWKqbW
 
 ## Graph Theory
 
